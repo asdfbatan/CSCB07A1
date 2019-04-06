@@ -1,0 +1,9 @@
+Class name: Mkdir
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities:
+*Perform operations to create new directory
+
+Collaborators:
+*FileController

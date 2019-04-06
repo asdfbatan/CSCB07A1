@@ -1,0 +1,11 @@
+Class name:SvnCheckout
+Parent class: Svn
+Subclass: N/A
+
+Responsibilities: 
+*Checkout a working copy from a remote repository URL or local repository PATH
+
+Collaborators: 
+*Network
+*Console
+*ValidChecker

@@ -1,0 +1,11 @@
+Class name: Pwd
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities: 
+*perform operations to display the current path
+*alarm users if the path is displayed
+
+Collaborators: 
+*Console 
+*FileController

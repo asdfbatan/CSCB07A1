@@ -1,0 +1,15 @@
+Class name:Console
+Parent class: Shell
+Subclass: N/A
+
+Responsibilities: 
+*Show interact process between user and shell
+*If invalid occasion, print error message from ValidChecker
+*If bug occurs, print bug message and report message
+
+Collaborators: 
+*ValidChecker
+*Help
+*Command
+*Network
+*BugStation

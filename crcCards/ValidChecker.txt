@@ -1,0 +1,15 @@
+Class name:ValidChecker
+Parent class: Shell
+Subclass: N/A
+
+Responsibilities: 
+*Check if the input is valid
+*Check if the command is valid
+*Check if the user have permission to access or if the permission is valid
+*Print help message if invalid
+
+Collaborators: 
+*Shell
+*Help
+*Console
+*BugStation

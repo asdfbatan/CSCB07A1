@@ -1,0 +1,17 @@
+Class name:BugStation
+Parent class: Shell
+Subclass: 
+
+Responsibilities: 
+*Catch the bugs during shell running
+*Report the bugs to the headquarters through internet if available.
+*If no internet, save as local file and update to headquarters when internet available.
+
+Collaborators: 
+*FileController
+*Network
+*Terminal
+*ValidChecker
+*Svn
+*Command
+*Console

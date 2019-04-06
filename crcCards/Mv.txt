@@ -1,0 +1,10 @@
+Class name: Mv
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities: 
+*Perform operations to rename to files
+*move the file to new directory
+
+Collaborators:
+*FileController

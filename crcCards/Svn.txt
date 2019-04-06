@@ -1,0 +1,14 @@
+Class name:Svn
+Parent class: Command
+Subclass: SvnCheckout, SvnUpdate, SvnAdd, SvnDelete, SvnCommit, SvnStatus
+
+Responsibilities: 
+*Check and Provide user access to svn site
+*Give access to perform checkout, update, add, delete, commit and show status
+
+Collaborators: 
+*Network
+*Console
+*FileController
+*ValidChecker
+*BugStation

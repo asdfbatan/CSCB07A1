@@ -1,0 +1,297 @@
++++ASSIGNMENT1 MARK DETAIL+++
+Your mark out of 10 is: [3.5:/10] 
+For any questions, contact the following TA (Name, Email)=
+Bryan Tam, bryan.tam@mail.utoronto.ca
+Please refer to the course syllabus for remarking window
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment1/.settings
+A    Assignment1/crcCards
+A    Assignment1/src
+A    Assignment1/src/a1
+A    Assignment1/crcCards/SvnDelete.txt
+A    Assignment1/crcCards/SvnUpdate.txt
+A    Assignment1/src/a1/BinaryTree.java
+A    Assignment1/.classpath
+A    Assignment1/.settings/org.eclipse.jdt.core.prefs
+A    Assignment1/crcCards/BugStation.txt
+A    Assignment1/crcCards/Cat.txt
+A    Assignment1/crcCards/Cd.txt
+A    Assignment1/crcCards/Command.txt
+A    Assignment1/crcCards/Console.txt
+A    Assignment1/crcCards/Cp.txt
+A    Assignment1/crcCards/Echo.txt
+A    Assignment1/crcCards/Echoappends.txt
+A    Assignment1/crcCards/Echooverwrite.txt
+A    Assignment1/crcCards/Exit.txt
+A    Assignment1/crcCards/FileController.txt
+A    Assignment1/crcCards/GetUrl.txt
+A    Assignment1/crcCards/Help.txt
+A    Assignment1/crcCards/Ls.txt
+A    Assignment1/crcCards/Mkdir.txt
+A    Assignment1/crcCards/Mv.txt
+A    Assignment1/crcCards/Network.txt
+A    Assignment1/crcCards/Pwd.txt
+A    Assignment1/crcCards/Rm.txt
+A    Assignment1/crcCards/Shell.txt
+A    Assignment1/crcCards/Svn.txt
+A    Assignment1/crcCards/SvnAdd.txt
+A    Assignment1/crcCards/SvnCheckout.txt
+A    Assignment1/crcCards/SvnCommit.txt
+A    Assignment1/crcCards/SvnStatus.txt
+A    Assignment1/crcCards/ValidChecker.txt
+A    Assignment1/src/a1/Node.java
+A    Assignment1/.project
+Checked out revision 54.
+
+
+
+PART 2) +++HONOR CODE?+++
+package a1;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+// **********************************************************
+// Assignment1:
+// Student1: Xia Tian
+// UTORID user_name:xiatia18
+// UT Student #:1004440410
+// Author:xia Tian
+//
+// Student2: zhang ti
+// UTORID user_name: zhan5263
+// UT Student #: 1004424517
+// Author: zhangti
+//
+//
+// Honor Code: I pledge that this program represents my own
+Marks Deductions here: (-2 max) 
+
+
+
+PART 3) +++IDE FILES+++
+Marks Deductions here: (-1 max)
+You have committed IDE files into your SVN repository
+
+
+
+Part 4) +++Work Distribution of Team Members+++
+On BinaryTree
+  18 attarwal@U
+   4 xiatia18@U
+ 131 zhan5263@U
+
+
+
+PART 5) +++Working on Problem BinaryTree+++
+FOUND: BinaryTree.java and now compiling
+./src/a1/BinaryTreeTest.java:49: error: method toList in class BinaryTree cannot be applied to given types;
+		Assert.assertEquals("[Deduction of -1, because your toList gives back a wrong answer.]", expected, bt.toList());
+		                                                                                                     ^
+  required: Node
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+./src/a1/BinaryTreeTest.java:55: error: method toList in class BinaryTree cannot be applied to given types;
+		Assert.assertEquals("[Deduction of -1, because your toList gives back a wrong answer.]", expected, bt.toList());
+		                                                                                                     ^
+  required: Node
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+./src/a1/BinaryTreeTest.java:64: error: method toList in class BinaryTree cannot be applied to given types;
+		Assert.assertEquals("[Deduction of -1, because your toList gives back a wrong answer.]", expected, bt.toList());
+		                                                                                                     ^
+  required: Node
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+./src/a1/BinaryTreeTest.java:77: error: method toList in class BinaryTree cannot be applied to given types;
+		Assert.assertEquals("[Deduction of -1, because your toList gives back a wrong answer.]", expected, bt.toList());
+		                                                                                                     ^
+  required: Node
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+Note: ./src/a1/BinaryTree.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+4 errors
+DEDUCTION: [-4] because your BinaryTree.java does not compile 
+
+
+
+PART 6) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-1 max): 
+------------------------------------------------------------------------
+r53 | zhan5263@UTORONTO.CA | 2018-10-09 09:08:59 -0400 (Tue, 09 Oct 2018) | 1 line
+
+update responsibility of crcCard "Cp"
+------------------------------------------------------------------------
+r52 | zhan5263@UTORONTO.CA | 2018-10-09 09:07:26 -0400 (Tue, 09 Oct 2018) | 1 line
+
+format crcCard "Cp"
+------------------------------------------------------------------------
+r51 | zhan5263@UTORONTO.CA | 2018-10-09 09:05:36 -0400 (Tue, 09 Oct 2018) | 1 line
+
+format crcCard "Exit"
+------------------------------------------------------------------------
+r50 | zhan5263@UTORONTO.CA | 2018-10-09 09:04:20 -0400 (Tue, 09 Oct 2018) | 1 line
+
+update file history for crcCard "FileController"
+------------------------------------------------------------------------
+r49 | zhan5263@UTORONTO.CA | 2018-10-09 09:00:57 -0400 (Tue, 09 Oct 2018) | 1 line
+
+format crcCards "Ls","Mkdir","Mv","Pwd","Rm"
+------------------------------------------------------------------------
+r48 | zhan5263@UTORONTO.CA | 2018-10-09 08:58:21 -0400 (Tue, 09 Oct 2018) | 1 line
+
+format crcCards "Cat","Cd","Cp","Echo","Echoappends","Echooverwrite","GetUrl"
+------------------------------------------------------------------------
+r47 | zhan5263@UTORONTO.CA | 2018-10-09 08:53:29 -0400 (Tue, 09 Oct 2018) | 1 line
+
+update "BugStation" related crcCards
+------------------------------------------------------------------------
+r46 | zhan5263@UTORONTO.CA | 2018-10-09 08:47:41 -0400 (Tue, 09 Oct 2018) | 1 line
+
+complete crcCard "BugStation"
+------------------------------------------------------------------------
+r45 | xiatia18@UTORONTO.CA | 2018-10-07 00:26:15 -0400 (Sun, 07 Oct 2018) | 1 line
+
+update the echo overwrite crc card
+------------------------------------------------------------------------
+r44 | xiatia18@UTORONTO.CA | 2018-10-07 00:24:23 -0400 (Sun, 07 Oct 2018) | 1 line
+
+update the echoappends crc card
+------------------------------------------------------------------------
+r43 | xiatia18@UTORONTO.CA | 2018-10-07 00:22:53 -0400 (Sun, 07 Oct 2018) | 1 line
+
+update the echo crc card
+------------------------------------------------------------------------
+r42 | xiatia18@UTORONTO.CA | 2018-10-07 00:21:57 -0400 (Sun, 07 Oct 2018) | 1 line
+
+update the GetUrl crc card
+------------------------------------------------------------------------
+r41 | xiatia18@UTORONTO.CA | 2018-10-07 00:20:09 -0400 (Sun, 07 Oct 2018) | 2 lines
+
+update the Cat crc card
+
+------------------------------------------------------------------------
+r40 | xiatia18@UTORONTO.CA | 2018-10-07 00:18:42 -0400 (Sun, 07 Oct 2018) | 2 lines
+
+update the rm crc card
+
+------------------------------------------------------------------------
+r39 | xiatia18@UTORONTO.CA | 2018-10-07 00:00:04 -0400 (Sun, 07 Oct 2018) | 1 line
+
+update the cp crc card
+------------------------------------------------------------------------
+r38 | xiatia18@UTORONTO.CA | 2018-10-06 23:58:18 -0400 (Sat, 06 Oct 2018) | 1 line
+
+update the mv crc card
+------------------------------------------------------------------------
+r37 | xiatia18@UTORONTO.CA | 2018-10-06 23:56:48 -0400 (Sat, 06 Oct 2018) | 1 line
+
+change the directory 
+------------------------------------------------------------------------
+r33 | xiatia18@UTORONTO.CA | 2018-10-06 23:48:19 -0400 (Sat, 06 Oct 2018) | 1 line
+
+update the Mkdir crc card
+------------------------------------------------------------------------
+r32 | xiatia18@UTORONTO.CA | 2018-10-06 23:47:20 -0400 (Sat, 06 Oct 2018) | 1 line
+
+update the exit crc card
+------------------------------------------------------------------------
+r31 | xiatia18@UTORONTO.CA | 2018-10-06 23:45:53 -0400 (Sat, 06 Oct 2018) | 1 line
+
+update the command crc card
+------------------------------------------------------------------------
+r30 | zhan5263@UTORONTO.CA | 2018-10-06 23:34:57 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "SvnStatus"
+------------------------------------------------------------------------
+r29 | zhan5263@UTORONTO.CA | 2018-10-06 23:34:05 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "SvnCommit"
+------------------------------------------------------------------------
+r28 | zhan5263@UTORONTO.CA | 2018-10-06 23:27:01 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "SvnDelete"
+------------------------------------------------------------------------
+r27 | zhan5263@UTORONTO.CA | 2018-10-06 23:24:44 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "SvnAdd"
+------------------------------------------------------------------------
+r26 | zhan5263@UTORONTO.CA | 2018-10-06 23:23:01 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "SvnUpdate"
+------------------------------------------------------------------------
+r25 | zhan5263@UTORONTO.CA | 2018-10-06 23:18:04 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "SvnCheckout"
+------------------------------------------------------------------------
+r24 | zhan5263@UTORONTO.CA | 2018-10-06 23:14:13 -0400 (Sat, 06 Oct 2018) | 1 line
+
+Complete crcCard "Svn"
+------------------------------------------------------------------------
+r23 | zhan5263@UTORONTO.CA | 2018-10-06 23:06:44 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "Network"
+------------------------------------------------------------------------
+r22 | zhan5263@UTORONTO.CA | 2018-10-06 23:01:10 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "ValidChecker"
+------------------------------------------------------------------------
+r21 | zhan5263@UTORONTO.CA | 2018-10-06 22:56:40 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "Help"
+------------------------------------------------------------------------
+r20 | zhan5263@UTORONTO.CA | 2018-10-06 22:53:32 -0400 (Sat, 06 Oct 2018) | 1 line
+
+format change, blankspace deleted
+------------------------------------------------------------------------
+r19 | zhan5263@UTORONTO.CA | 2018-10-06 22:48:43 -0400 (Sat, 06 Oct 2018) | 1 line
+
+add some collaborators
+------------------------------------------------------------------------
+r18 | zhan5263@UTORONTO.CA | 2018-10-06 22:43:24 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "FileController"
+------------------------------------------------------------------------
+r17 | zhan5263@UTORONTO.CA | 2018-10-06 22:35:25 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "Console"
+------------------------------------------------------------------------
+r16 | zhan5263@UTORONTO.CA | 2018-10-06 22:27:03 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "Shell"
+------------------------------------------------------------------------
+r15 | zhan5263@UTORONTO.CA | 2018-10-06 22:20:51 -0400 (Sat, 06 Oct 2018) | 1 line
+
+standardize the file name
+------------------------------------------------------------------------
+r14 | zhan5263@UTORONTO.CA | 2018-10-06 22:19:21 -0400 (Sat, 06 Oct 2018) | 1 line
+
+complete crcCard "Shell"
+------------------------------------------------------------------------
+r13 | zhan5263@UTORONTO.CA | 2018-10-06 22:05:41 -0400 (Sat, 06 Oct 2018) | 1 line
+
+try
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2018-09-30 19:25:14 -0400 (Sun, 30 Sep 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+
+
+
+Part 7) +++Work Distribution of Team Members+++
+On CRC Cards
+  72 xiatia18@U
+ 259 zhan5263@U
+
+
+
+PART 8) +++CRC Cards+++
+Marks Deductions here (-6 max): -2.5
+Feedback from TA is the following:
+- SVN is not part of the requirement of the shell, so there should not be any class regarding that.
+- There is a file controller, but there isn't file and directory. How is the filesystem stored? You should also mock the file system.
+- I don't see what's in common among Command, Console, FileController, ValidChecker, Network, Help and BugStation, so I don't understand why they all should be subclass of Shell.

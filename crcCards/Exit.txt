@@ -1,0 +1,9 @@
+Class name: Exit
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities:
+*Perform operations to exit files
+
+Collaborators:
+*FileController

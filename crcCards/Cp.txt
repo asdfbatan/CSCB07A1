@@ -1,0 +1,10 @@
+Class name: Cp
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities:
+*Perform operations to create the copy of file
+*Rename the file
+
+Collaborators:
+*FileController

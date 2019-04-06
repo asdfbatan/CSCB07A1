@@ -1,0 +1,12 @@
+Class name:SvnCommit
+Parent class: Svn
+Subclass: N/A
+
+Responsibilities: 
+*send changes from user's working copy to the repository
+*use "svn commit -m'message'" to specify the message that will be associated with the current commit
+
+Collaborators: 
+*Network
+*Console
+*ValidChecker

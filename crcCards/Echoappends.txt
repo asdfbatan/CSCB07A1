@@ -1,0 +1,10 @@
+Class name: Echoappends
+Parent class: Echo
+Subclasses: N/A
+
+Responsibilities: 
+*Perform operations to to create file by given string and appends it if it exists
+
+Collaborators: 
+*FileController
+*Echo

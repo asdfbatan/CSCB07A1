@@ -1,0 +1,9 @@
+Class name: Cat
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities: 
+*Perform operations to show the content of file
+
+Collaborators:
+*FileController

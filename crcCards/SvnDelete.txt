@@ -1,0 +1,11 @@
+Class name:SvnDelete
+Parent class: Svn
+Subclass: N/A
+
+Responsibilities: 
+*Delete an item from a working coppy or the repository
+
+Collaborators: 
+*Network
+*Console
+*ValidChecker

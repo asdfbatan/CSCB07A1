@@ -1,0 +1,11 @@
+Class name:SvnAdd
+Parent class: Svn
+Subclass: N/A
+
+Responsibilities: 
+*Add new files or directories to the repository
+
+Collaborators: 
+*Network
+*Console
+*ValidChecker

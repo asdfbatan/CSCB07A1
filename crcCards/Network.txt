@@ -1,0 +1,12 @@
+Class name:Network
+Parent class: Shell
+Subclass: N/A
+
+Responsibilities: 
+*Connect to the network
+*Check if the network is valid(i.e, network which need username and password input)
+
+Collaborators: 
+*ValidChecker
+*Consoler
+*BugStation

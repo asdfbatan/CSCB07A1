@@ -1,0 +1,11 @@
+Class name:SvnUpdate
+Parent class: Svn
+Subclass: N/A
+
+Responsibilities: 
+*Update user's working copy to a PATH
+
+Collaborators: 
+*Network
+*Console
+*ValidChecker

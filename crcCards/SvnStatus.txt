@@ -1,0 +1,12 @@
+Class name:SvnStatus
+Parent class: Svn
+Subclass: N/A
+
+Responsibilities: 
+*Print the status of working copy files and directories
+*Accept command shorthand "svn st."
+
+Collaborators: 
+*Network
+*Console
+*ValidChecker

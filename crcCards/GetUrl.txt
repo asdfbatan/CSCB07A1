@@ -1,0 +1,10 @@
+Class name: GetUrl
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities:
+*Perform operations to retrieves the file at Url
+*add the file to the current directory
+Collaborators: 
+*FileController
+*Network

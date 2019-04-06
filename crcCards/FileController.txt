@@ -1,0 +1,17 @@
+Class name:FileController
+Parent class: Shell
+Subclass: N/A
+
+Responsibilities: 
+*Give permission to perform operations(add, delete, move, copy...) to files
+*Remember order of recent opened files
+
+Collaborators: 
+*BugStation
+*Console
+*ValidChecker
+*Command
+*Cat
+*Cp
+*Rm
+*Mv

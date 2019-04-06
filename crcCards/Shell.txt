@@ -1,0 +1,10 @@
+Class name:Shell
+Parent class: N/A
+Subclass: Command, Console, FileController, ValidChecker, Network, Help, BugStation
+
+Responsibilities: 
+*Provide user access to computer
+*Work as the operating center of the whole shell
+
+Collaborators: 
+*

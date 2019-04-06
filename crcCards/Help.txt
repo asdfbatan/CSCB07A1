@@ -1,0 +1,12 @@
+Class name:Help
+Parent class: Shell
+Subclass: N/A
+
+Responsibilities: 
+*Provide instructions to shell's function
+*Provide errors reason
+
+Collaborators: 
+*Console
+*Command
+*ValidChecker

@@ -1,0 +1,25 @@
+Class name: Commands
+Parent class: N/A
+Subclasses: Ls, Cd, Mv, Cp, Rm, Cat, GetUrl, Echo, Mkdir, Exit, Pwd
+
+Responsibilities:
+*Allow user to choose command
+*Perform invalid command extension by using ValidChecker
+*Perform command the user choose
+
+Collaborators:
+*Ls
+*Cd
+*Mv
+*Cp
+*Rm
+*Cat
+*GetUrl
+*Echo
+*Echooverwrite
+*Echoappends
+*Mkdir
+*Exit
+*Pwd
+*FileController
+*BugStation

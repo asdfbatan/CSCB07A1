@@ -1,0 +1,9 @@
+Class name: Echo
+Parent class: Command
+Subclasses: Echoovrwrite Echoappends
+
+Responsibilities:
+*Perform operations to to create file by given string
+
+Collaborators:
+*FileController

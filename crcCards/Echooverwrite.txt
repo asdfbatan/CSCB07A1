@@ -1,0 +1,10 @@
+Class name: Echooverwrite
+Parent class: Echo
+Subclasses: N/A
+
+Responsibilities:
+*Perform operations to to create file by given string and overwrite if it exists
+
+Collaborators: 
+*FileController
+*Echo

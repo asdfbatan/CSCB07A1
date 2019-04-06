@@ -1,0 +1,9 @@
+Class name: Rm
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities:
+*Perform operations to delete files or directories
+
+Collaborators:
+*FileController

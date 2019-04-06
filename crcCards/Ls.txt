@@ -1,0 +1,10 @@
+Class name: Ls
+Parent class: Command
+Subclasses: N/A
+
+Responsibilities:
+*Provide operations to list the files of the current directory
+
+Collaborators: 
+*Console 
+*FileController
